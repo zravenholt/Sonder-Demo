@@ -1,5 +1,5 @@
 {
-  "qor_5A97C3D9_ensure_application_availability" : "Asegurar la disponibilidad de las aplicaciones",
+  "qor_5A97C3D9_ensure_application_availability" : "Asegurar la disponibilidad de las aplicaciones changes",
   "qor_5A97C3DE_application_downtime_applications" : "Los usuarios esperan que sus aplicaciones de misión crítica estén en línea y en todo momento. El tiempo de inactividad de la aplicación se ve afectado por tres factores principales:",
   "qor_5A97C3DE_applications_infrastructure" : "Mejorar la disponibilidad de las aplicaciones afectadas por la infraestructura sobrecargada o no disponible.",
   "qor_5A97C3E1_origin_server_capacity" : "Tráfico sobrecargar la capacidad del servidor origen, por lo que es disponible o no responde",
